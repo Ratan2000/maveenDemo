@@ -36,10 +36,6 @@ public class Database
 	 }
 	     return s1;
 		
-		  
-		
-	 
-		
-	}
+ }
 
 }
